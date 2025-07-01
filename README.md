@@ -12,8 +12,9 @@
 
 ### Author Affiliations
 
-- **Youngjae Kim** — Department of Biomedical Engineering (AMIST) & Department of Convergence Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
-- **Won Sun Lee** & **Min-Young Jo** — Department of Orthopedic Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
+- **Youngjae Kim**† — Department of Biomedical Engineering (AMIST) & Department of Convergence Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
+- **Won Sun Lee**†, MD — Department of Orthopedic Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea
+- **Min-Young Jo** — Department of Orthopedic Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
 - **Chae-Min Ryu**, PhD — Center for Cell Therapy, Asan Medical Center, Seoul, Republic of Korea  
 - **Hyunna Lee**, PhD* — Bigdata Research Center, Asan Institute for Life Science, Asan Medical Center, Seoul, Republic of Korea <hyunnalee@gmail.com>  
 - **Jae-Kwang Kim**, MD, PhD* — Department of Orthopedic Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea <orth4535@gmail.com>  
