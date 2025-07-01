@@ -34,18 +34,7 @@ import numpy as np
 import cv2
 
 def crop_image_by_keypoints(image, keypoints, padding=50):
-    """
-    세 개의 keypoints (x, y 좌표)를 포함하는 최소한의 사각형으로 이미지를 크롭하며,
-    주어진 padding만큼 여유 공간을 포함합니다. 이미지 크기를 넘어가는 경우 제로 패딩을 추가합니다.
 
-    Args:
-        image (torch.Tensor): 크롭할 원본 이미지 (C, H, W 형식의 텐서)
-        keypoints (dict): 'keypoints' 키로 3개의 (x, y) 좌표를 포함하는 딕셔너리
-        padding (int): 크롭 영역을 확장할 여유 공간의 픽셀 수 (기본값은 50)
-
-    Returns:
-        resized_cropped_image (numpy array): 크롭되고 크기 조정된 이미지
-    """
     keypoints = keypoints['keypoints'].cpu().numpy()[0]  # 텐서를 numpy로 변환하고 CPU로 이동
 
     # x, y 좌표를 정수형으로 변환
