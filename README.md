@@ -1,6 +1,5 @@
-# DL_AA_Prediction
+# Deep learning-based ankle angle and gait-phase estimation in a rat sciatic nerve injury model
 
-**Deep learning-based ankle angle and gait-phase estimation in a rat sciatic nerve injury model**
 
 <p align="center"><img src='./MI2RL_logo.png' width="440" height="150"></p>
 
