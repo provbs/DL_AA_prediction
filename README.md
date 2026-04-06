@@ -7,6 +7,7 @@
 - **Project**: Deep learning-based ankle angle and gait-phase estimation in a rat sciatic nerve injury model  
 
 <p align="center"><img src='./figure4.png'></p>
+
 ---
 
 ### Publications
