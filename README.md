@@ -13,7 +13,7 @@
 
 ### Author Affiliations
 
-- **Youngjae Kim**† — Department of Biomedical Engineering (AMIST) & Department of Convergence Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
+- **Youngjae Kim**† — Department of Biomedical Engineering (AMIST) & Department of Convergence Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  <provbs36@gmail.com>
 - **Won Sun Lee**†, MD — Department of Orthopedic Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea
 - **Min-Young Jo** — Department of Orthopedic Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
 - **Chae-Min Ryu**, PhD — Center for Cell Therapy, Asan Medical Center, Seoul, Republic of Korea  
