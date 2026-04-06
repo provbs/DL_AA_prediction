@@ -5,7 +5,9 @@
 
 - **Institution**: [MI2RL](https://www.mi2rl.co/), Asan Medical Center, South Korea  
 - **Project**: Deep learning-based ankle angle and gait-phase estimation in a rat sciatic nerve injury model  
-- **Authors**: Youngjae Kim†, Won Sun Lee†, MD, Min-Young Jo, Chae-Min Ryu, PhD, Hyunna Lee*, PhD, Jae-Kwang Kim*, MD, PhD  
+- **Authors**: Youngjae Kim†, Won Sun Lee†, MD, Min-Young Jo, Chae-Min Ryu, PhD, Hyunna Lee*, PhD, Jae-Kwang Kim*, MD, PhD
+
+<p align="center"><img src='./figure4.png' width="440" height="150"></p>
 
 ---
 
